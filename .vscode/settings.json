@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VR player Testing.sln"
+    "dotnet.defaultSolution": "my-VR-player.sln"
 }
